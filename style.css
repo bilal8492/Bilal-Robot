@@ -144,6 +144,14 @@ body {
   }
   #main {
     width: 360px;
-    height: 100vh;
+	height: 70vh;
+	margin-bottom: 230px;
+	
   }
+  #container{
+	  height: 100vh;
+	  padding: 20px;
+	  
+  }
+  
 }
