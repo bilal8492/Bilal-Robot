@@ -140,17 +140,22 @@ body {
 }
 @media (max-width: 750px) {
   body {
-    height: 100vh;
+    height: 95vh;
   }
   #main {
     width: 360px;
-	height: 70vh;
-	margin-bottom: 230px;
+	/* height: 75vh; */
+	/* margin-bottom: 190px; */
 	
   }
+  .lower_body {
+    width: 200px;
+    height: 150px;
+    margin: 0 auto;
+    display: flex;
+}
   #container{
-	  height: 100vh;
-	  padding: 20px;
+	  padding: 0 20px;
 	  
   }
   
