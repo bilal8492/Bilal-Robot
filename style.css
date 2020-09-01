@@ -75,7 +75,7 @@ body {
 .left_arm {
   margin-right: 10px;
 }
-.left_leg:hover {
+.left_arm:hover {
   -webkit-transform: rotate(20deg);
   -moz-transform: rotate(20deg);
   -o-transform: rotate(20deg);
